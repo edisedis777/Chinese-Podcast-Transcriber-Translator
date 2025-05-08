@@ -56,3 +56,4 @@ python translate-podcasts.py your-podcast.mp3 \
 - tqdm
 
 ## License
+- GNU Affero General Public License v3.0
