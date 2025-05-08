@@ -2,6 +2,8 @@
 
 A command-line tool that automatically transcribes Chinese podcasts and translates them to English.
 
+It's not perfect, but it works ;)
+
 ## Features
 
 - **Audio Processing**: Converts various audio formats to optimized WAV
